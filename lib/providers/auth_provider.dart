@@ -87,7 +87,7 @@ class AuthProvider extends ChangeNotifier {
       errorMessage = error.toString().replaceFirst('Exception: ', '');
       return false;
     } finally {
-      isSubmitting = false;
+      a isSubmitting = false;
       notifyListeners();
     }
   }
