@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1018953680694",
+    "project_id": "i-closet-nuray",
+    "storage_bucket": "i-closet-nuray.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018953680694:android:d093d63d6bfe5d468c1597",
+        "android_client_info": {
+          "package_name": "com.example.virtual_wardrobe_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018953680694-odb9fdvgh7cbmefvfb91ul1gnq1hd0pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtual_wardrobe_ai",
+            "certificate_hash": "f330398cf258ea4aa7ad74f9a91b2d1ad9a3926c"
+          }
+        },
+        {
+          "client_id": "1018953680694-s0ka5e7ddfgn48taablfsrvmmc6clv4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8XQh996eFinl8QURUqj562aahAwbfTf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018953680694-h6jpiounja2g7m5laqt7cjuneqqkrs27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018953680694-1tbkhq8hjssp8t65othgumnoponpl4oc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virtualWardrobeAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

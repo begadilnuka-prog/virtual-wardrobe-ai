@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1018953680694-1tbkhq8hjssp8t65othgumnoponpl4oc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1018953680694-1tbkhq8hjssp8t65othgumnoponpl4oc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1018953680694-odb9fdvgh7cbmefvfb91ul1gnq1hd0pk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb_O3vBSaw3fG5xaFp8E7ZJpVfa3Rf-NE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1018953680694</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.virtualWardrobeAi</string>
+	<key>PROJECT_ID</key>
+	<string>i-closet-nuray</string>
+	<key>STORAGE_BUCKET</key>
+	<string>i-closet-nuray.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1018953680694:ios:d57c58ef3c2db4ba8c1597</string>
+</dict>
+</plist>
